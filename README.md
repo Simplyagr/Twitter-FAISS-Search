@@ -3,10 +3,11 @@
 🐦 Twitter FAISS Search
 A Streamlit-based web application that allows users to:
 
-Fetch real-time tweets using the Twitter API.
-Perform sentiment analysis (positive, negative, neutral).
-Store tweet embeddings using FAISS for efficient similarity search.
-Visualize sentiment distribution and generate word clouds.
+- Fetch real-time tweets using the Twitter API.
+- Perform sentiment analysis (positive, negative, neutral).
+- Store tweet embeddings using FAISS for efficient similarity search.
+- Visualize sentiment distribution and generate word clouds.
+
 🚀 Features
 ✔ Fetch tweets using Twitter-X API
 ✔ Preprocess & clean tweets
