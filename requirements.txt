@@ -1,0 +1,10 @@
+streamlit
+requests
+faiss-cpu
+numpy
+pandas
+textblob
+sentence-transformers
+matplotlib
+wordcloud
+seaborn
