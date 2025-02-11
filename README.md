@@ -25,3 +25,7 @@ A Streamlit-based web application that allows users to:
 2. Set up your key from RapidAPI
 
 3. Run the command: ```streamlit run sentimentor_app.py``` 
+
+Deployed Link:
+
+https://simplyagr-sentimentor.streamlit.app/
