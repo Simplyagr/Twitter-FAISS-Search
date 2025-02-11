@@ -18,11 +18,8 @@ Visualize sentiment distribution and generate word clouds.
 
 # How to Run?
 
-1. Install required dependencies:
-
-```pip install -r requirements.txt```
+1. Install required dependencies: ```pip install -r requirements.txt```
 
 2. Set up your key from RapidAPI
 
-3. Run the command
-   ```streamlit run sentimentor_app.py``` 
+3. Run the command: ```streamlit run sentimentor_app.py``` 
