@@ -9,13 +9,14 @@ A Streamlit-based web application that allows users to:
 - Visualize sentiment distribution and generate word clouds.
 
 🚀 Features
-✔ Fetch tweets using Twitter-X API
-✔ Preprocess & clean tweets
-✔ Perform sentiment analysis using TextBlob
-✔ Vectorize tweets using SentenceTransformer
-✔ Store embeddings in FAISS for efficient similarity search
-✔ Search for similar tweets
-✔ Visualizations: Sentiment bar chart & Word cloud
+
+✔ Fetch tweets using **Twitter-X API**  
+✔ Preprocess & clean tweets  
+✔ Perform **sentiment analysis** using `TextBlob`  
+✔ Vectorize tweets using `SentenceTransformer`  
+✔ Store embeddings in **FAISS** for efficient similarity search  
+✔ Search for **similar tweets**  
+✔ **Visualizations**: Sentiment bar chart & Word cloud  
 
 # How to Run?
 
